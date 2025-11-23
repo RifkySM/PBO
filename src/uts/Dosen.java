@@ -1,8 +1,7 @@
 package uts;
 
 public class Dosen extends User {
-    private String nidn;
-    private String mataKuliahAjar;
+    private String nidn, mataKuliahAjar;
 
     public Dosen(String nama, String email, String alamat, String noHP, String nidn, String mataKuliahAjar) {
         super(nama, email, alamat, noHP);

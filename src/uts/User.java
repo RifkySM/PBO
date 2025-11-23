@@ -1,10 +1,7 @@
 package uts;
 
 public class User {
-    private String nama;
-    private String email;
-    private String alamat;
-    private String noHP;
+    private String nama, email, alamat, noHP;
 
     public User(String nama, String email, String alamat, String noHP) {
         setNama(nama);

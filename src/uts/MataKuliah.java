@@ -1,8 +1,7 @@
 package uts;
 
 public class MataKuliah {
-    private String kode;
-    private String namaMatkul;
+    private String kode, namaMatkul;
     private int sks;
 
     public MataKuliah(String kode, String namaMatkul, int sks) {

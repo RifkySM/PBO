@@ -1,8 +1,7 @@
 package uts;
 
 public class Mahasiswa extends User {
-    private String nim;
-    private String jurusan;
+    private String nim, jurusan;
     private double ipk;
 
     public Mahasiswa(String nama, String email, String alamat, String noHP, String nim, String jurusan, double ipk) {
