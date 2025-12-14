@@ -1,0 +1,89 @@
+---------------------------------------
+output regular delivery
+----------------------------------------
+
+========================================
+    ONLINE STORE DELIVERY SYSTEM
+========================================
+
+Enter package weight (kg)      : 10
+Enter delivery distance (km)   : 2
+
+--- Delivery Service Options ---
+1. Regular  (Estimation: 3-5 days)
+2. Express  (Estimation: 1-2 days)
+3. Same Day (Estimation: 6-10 hours)
+
+Choose service (1/2/3)         : 1
+
+========================================
+        Delivery Detail
+========================================
+Service Type        : Regular
+Package Weight      : 10.0 kg
+Delivery Distance   : 2.0 km
+----------------------------------------
+Cost                : Rp 26.000
+Arrival Estimation  : 3 - 5 day(s)
+========================================
+
+
+
+---------------------------------------
+output express delivery
+----------------------------------------
+
+========================================
+    ONLINE STORE DELIVERY SYSTEM
+========================================
+
+Enter package weight (kg)      : 10
+Enter delivery distance (km)   : 2
+
+--- Delivery Service Options ---
+1. Regular  (Estimation: 3-5 days)
+2. Express  (Estimation: 1-2 days)
+3. Same Day (Estimation: 6-10 hours)
+
+Choose service (1/2/3)         : 2
+
+========================================
+        Delivery Detail
+========================================
+Service Type        : Express
+Package Weight      : 10.0 kg
+Delivery Distance   : 2.0 km
+----------------------------------------
+Cost                : Rp 41.600
+Arrival Estimation  : 1 - 2 day(s)
+========================================
+
+
+---------------------------------------
+output same day delivery
+----------------------------------------
+
+========================================
+    ONLINE STORE DELIVERY SYSTEM
+========================================
+
+Enter package weight (kg)      : 10
+Enter delivery distance (km)   : 2
+
+--- Delivery Service Options ---
+1. Regular  (Estimation: 3-5 days)
+2. Express  (Estimation: 1-2 days)
+3. Same Day (Estimation: 6-10 hours)
+
+Choose service (1/2/3)         : 3
+
+========================================
+        Delivery Detail
+========================================
+Service Type        : Same Day
+Package Weight      : 10.0 kg
+Delivery Distance   : 2.0 km
+----------------------------------------
+Cost                : Rp 62.400
+Arrival Estimation  : 6 - 10 hour(s)
+========================================
